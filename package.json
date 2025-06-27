@@ -1,6 +1,6 @@
 {
   "dependencies": {
-    "bootstrap": "^5.3.6"
+    "bootstrap": "^5.3.7"
   },
   "devDependencies": {
     "vite": "^6.3.5"
